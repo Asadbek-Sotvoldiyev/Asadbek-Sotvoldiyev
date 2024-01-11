@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Asadbek Sotvoldiyev</h1>
-<h3 align="center">I'm a backend developer</h3>
+<img align="center" src="https://github.com/Asadbek-Sotvoldiyev/Asadbek-Sotvoldiyev/blob/main/logo.jpg?raw=true">
+<h1 align="left">Hi 👋, I'm Asadbek Sotvoldiyev</h1>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadbek-sotvoldiyev&label=Profile%20views&color=0e75b6&style=flat" alt="asadbek-sotvoldiyev" /> </p>
 
 - 🌱 I’m currently learning **Python/django**
-
+- 🔥My codewars account **www.codewars.com/users/asadbek-pydev**
+- ⚡My leetcode account **https://leetcode.com/Asadbek_Sotvoldiyev**
+- 👯 I’m looking to collaborate on **Django**
+- 💬 Ask me about **Anythin**g
 - 📫 How to reach me **blogasadbek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
