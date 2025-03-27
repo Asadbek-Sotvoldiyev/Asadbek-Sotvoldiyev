@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadbek-sotvoldiyev&label=Profile%20views&color=0e75b6&style=flat" alt="asadbek-sotvoldiyev" /> </p>
 
-- 🌱 I’m currently learning **Python/django**
 - 🔥My codewars account **www.codewars.com/users/asadbek-pydev**
 - ⚡My leetcode account **https://leetcode.com/Asadbek_Sotvoldiyev**
 - 👯 I’m looking to collaborate on **Django**
