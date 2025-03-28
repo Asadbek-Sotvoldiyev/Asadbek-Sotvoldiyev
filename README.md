@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Asadbek-Sotvoldiyev/Asadbek-Sotvoldiyev/blob/main/logo.jpg?raw=true">
+<img align="center" src="https://github.com/Asadbek-Sotvoldiyev/Asadbek-Sotvoldiyev/blob/main/logo.png?raw=true">
 <h1 align="left">Hi 👋, I'm Asadbek Sotvoldiyev</h1>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
